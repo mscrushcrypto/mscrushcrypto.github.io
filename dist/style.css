@@ -33,7 +33,7 @@ a{
 }
 a.featured{
 	position:relative;
-	background-color:#00ff2f8a;
+	background-color:#df00a5;
 	color:#fff;
 	font-weight:700
 }
@@ -62,7 +62,7 @@ h2{
 	padding:5px 10px;
 	margin-right:10px;
 	background-color:#000000;
-	color:#00ff2f;
+	color:#ffffff;
 	border:none
 }
 .channels a:last-child{
